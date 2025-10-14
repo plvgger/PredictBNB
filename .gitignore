@@ -1,0 +1,18 @@
+# Node/Next
+node_modules/
+.next/
+out/
+dist/
+build/
+.cache/
+.turbo/
+.pnpm-store/
+.vercel/
+coverage/
+*.log
+.DS_Store
+
+# Env
+.env
+.env.*
+!.env.example
