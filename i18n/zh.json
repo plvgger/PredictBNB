@@ -55,7 +55,7 @@
   },
   "markets": {
     "title": "预测市场",
-    "description": "交易真实世界事件并通过闪电般快速的交易赚取BNB奖励",
+    "description": "通过Polymarket API交易真实世界事件并通过闪电般快速的交易赚取BNB奖励",
     "searchPlaceholder": "搜索市场...",
     "allMarkets": "所有市场",
     "active": "活跃",

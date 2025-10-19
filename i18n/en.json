@@ -55,7 +55,7 @@
   },
   "markets": {
     "title": "Prediction Markets",
-    "description": "Trade on real-world events and earn BNB rewards with lightning-fast transactions",
+    "description": "Trade on real-world events and earn BNB rewards with lightning-fast transactions through the Polymarket API",
     "searchPlaceholder": "Search markets...",
     "allMarkets": "All Markets",
     "active": "Active",

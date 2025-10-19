@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'PredictBNB - Prediction Markets on BNB',
-  description: 'Trade on real-world events with BNB. Decentralized prediction markets on BNB Smart Chain.',
+  description: 'Trade on real-world events with BNB through the Polymarket API. Decentralized prediction markets on BNB Smart Chain.',
 }
 
 export default function RootLayout({
