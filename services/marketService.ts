@@ -70,9 +70,9 @@ export const mockMarkets: Market[] = [
   // Politics
   {
     id: 4,
-    question: "Will there be a government shutdown by October 15?",
+    question: "Will there be a government shutdown by November 15?",
     outcomes: ["Yes", "No"],
-    endTime: Date.now() + 2 * 24 * 60 * 60 * 1000,
+    endTime: Date.now() + 27 * 24 * 60 * 60 * 1000,
     resolved: false,
     winningOutcome: 0,
     totalLiquidity: 32.4,
@@ -85,9 +85,9 @@ export const mockMarkets: Market[] = [
   },
   {
     id: 5,
-    question: "Will Trump meet with Xi Jinping by October 31?",
+    question: "Will Trump meet with Xi Jinping by November 30?",
     outcomes: ["Yes", "No"],
-    endTime: Date.now() + 18 * 24 * 60 * 60 * 1000,
+    endTime: Date.now() + 42 * 24 * 60 * 60 * 1000,
     resolved: false,
     winningOutcome: 0,
     totalLiquidity: 27.6,
