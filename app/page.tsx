@@ -101,8 +101,7 @@ export default function Home() {
                 <button 
                   className="p-2 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-lg transition-colors"
                   onClick={() => {
-                    // Will be implemented when we have the actual CA
-                    navigator.clipboard?.writeText('Coming Soon')
+                    navigator.clipboard?.writeText('0x538324dbfc321e8f9f019d5e992c709ce1494444')
                   }}
                   title="Copy Contract Address"
                 >
